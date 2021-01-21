@@ -1,0 +1,3 @@
+In Python you can create variables.
+In Python you can create classes to better model the real world.
+In Python you can utilize data structures like lists, dictionaries, and tuples.
